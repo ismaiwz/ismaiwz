@@ -1,19 +1,14 @@
 <div align="center">
 
-  <a href="https://ismaiwz.com.tr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=%C4%B0smail+Ayd%C4%B1nl%C4%B1k;Full-Stack+Web+Developer;Mechatronics+Engineering+Student;Automation+%26+IoT+Enthusiast" alt="Typing SVG" />
-  </a>
-
-  <p>
-    <code>@ismaiwz</code> · <strong>Pamukkale University</strong> · Mechatronics Engineering
-  </p>
+  <h1>İsmail Aydınlık</h1>
+  <p><code>@ismaiwz</code> · Mechatronics Engineering · Pamukkale University</p>
 
   <p>
     <a href="https://ismaiwz.com.tr" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-ismaiwz.com.tr-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Website" />
+      <img src="https://img.shields.io/badge/ismaiwz.com.tr-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
     <a href="https://github.com/ismaiwz" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-@ismaiwz-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/@ismaiwz-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -21,44 +16,32 @@
 
 ---
 
-### 👨‍💻 Hakkımda / About Me
+I'm İsmail, a Mechatronics Engineering student at Pamukkale University and an independent web developer.
 
-I'm **İsmail Aydınlık** (`@ismaiwz`), a **Full-Stack Web Developer** and **Mechatronics Engineering** student at Pamukkale University. 
+Most of my time goes into building full-stack web apps, writing browser automation scripts to get rid of repetitive tasks, and messing around with embedded hardware. I like putting software and physical systems together—whether that's a backend service handling payments and data, or an Arduino/ROS 2 setup talking to a web interface.
 
-I focus on bridging the gap between modern web technologies, backend automation, and hardware systems. Whether it's building scalable web platforms, automating complex browser workflows, or working with embedded electronics and robotics, I enjoy turning ideas into functional, high-performance software.
-
-- 🌐 Building full-stack web apps, SaaS platforms, and RESTful APIs
-- ⚙️ Developing browser automation tools and data processing scripts
-- 🤖 Exploring embedded systems, IoT telemetry, and ROS 2 robotics
-- 🐧 Daily driving dual-boot **Ubuntu Linux** & Windows
+- **Web & Backend:** PHP, MySQL, Node.js, Express, Socket.IO, Bootstrap
+- **Automation & Desktop:** Electron, Puppeteer, custom scraping & workflow scripts
+- **Hardware & Robotics:** Arduino (C/C++), ROS 2, SolidWorks, 3D printing
+- **Environment:** Ubuntu 22.04 LTS & Windows 11
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,js,html,css,bootstrap,electron,linux,ubuntu,arduino,cpp,python,git,github&perline=8" alt="Tech Stack" />
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ismaiwz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaiwz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,js,html,css,bootstrap,electron,linux,ubuntu,arduino,cpp,python,git,github&perline=8" alt="Stack" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismaiwz&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ismaiwz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaiwz&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
----
+<br />
 
 <div align="center">
   <a href="https://github.com/ismaiwz?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Repositories_→-38BDF8?style=for-the-badge&logo=github&logoColor=0F172A" alt="Explore Repositories" />
+    <img src="https://img.shields.io/badge/Repositories_→-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </div>
