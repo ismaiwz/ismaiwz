@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Dinamik Hareketli Başlık -->
   <a href="https://ismaiwz.com.tr">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=%C4%B0smail+Ayd%C4%B1nl%C4%B1k;Full-Stack+Web+Developer;Mechatronics+Engineering+Student;Automation+%26+IoT+Enthusiast" alt="Typing SVG" />
   </a>
@@ -9,7 +8,6 @@
     <code>@ismaiwz</code> · <strong>Pamukkale University</strong> · Mechatronics Engineering
   </p>
 
-  <!-- Sosyal & İletişim Rozetleri -->
   <p>
     <a href="https://ismaiwz.com.tr" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-ismaiwz.com.tr-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Website" />
